@@ -1,1 +1,0 @@
-(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,54524,e=>{"use strict";e.s(["default",()=>t]);var s=e.i(90172);function t(){return(0,s.jsx)("div",{className:"min-h-screen",children:(0,s.jsx)("img",{src:"/images/hotel-map.jpeg",alt:"Hotel Map",className:"w-fit"})})}}]);
